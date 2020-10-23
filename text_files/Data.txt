@@ -1,0 +1,18 @@
+"Room1","Unlocked",None,"Room2",None,None,None,None,None,None,"Sword"
+"Room2","Unlocked",None,"Room9","Room7","Room1","Room3",None,None,None,None
+"Room3","Unlocked",None,None,"Room2",None,None,"Room4",None,"BlubGlub",None
+"Room4","Unlocked",None,None,"Room6","Room5",None,None,"Room3",None,"Heart"
+"Room5","Unlocked",None,"Room4",None,None,None,None,None,"Soldier","Boomerang"
+"Room6","Unlocked",None,None,None,None,"Room4",None,None,None,"BlueKey"
+"Room7","Locked","BlueKey","Room8",None,None,"Room2",None,None,"Torok","Heart"
+"Room8","Unlocked",None,None,None,"Room7",None,None,None,None,"RedKey"
+"Room9","Unlocked",None,"Room10",None,"Room2",None,None,None,None,"Heart"
+"Room10","Locked","RedKey",None,"Room12","Room9","Room11",None,None,"BlubGlub",None
+"Room11","Unlocked",None,None,"Room10",None,None,None,None,"Torok","Shield"
+"Room12","Unlocked",None,None,None,None,"Room10","Room13",None,None,None
+"Room13","Unlocked",None,None,None,"Room14","Room16",None,"Room12","Soldier",None
+"Room14","Unlocked",None,"Room13","Room18","Room15",None,None,None,None,"Heart"
+"Room15","Unlocked",None,"Room14",None,None,None,None,None,None,"GoldKey"
+"Room16","Unlocked",None,None,"Room13",None,"Room17",None,None,"Soldier","Bow and Arrow","Heart"
+"Room17","Locked","GoldKey",None,"Room16",None,None,None,None,"Dragon",None
+"Room18","Unlocked",None,None,None,None,"Room14",None,None,None,"Heart"
