@@ -7,4 +7,4 @@ Description:
   and a multitude of weapons that aid in the pop-up style battle system. 
 
 To Run:
-Download files and run Main
+Download files into same depository and run Main.py
